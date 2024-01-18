@@ -1,0 +1,8 @@
+/* src/components/Footer.css */
+
+.footer {
+  padding: 1rem;
+  background-color: #004aad; /* Your brand color */
+  color: white;
+  text-align: center;
+}
